@@ -3,10 +3,8 @@ Classification model to classify patients with Parkinson's disease from normal p
 
 <h3>Motivation</h3>
   <ul>
-    
-    <li>고가의 장비, 고급 인력, 복잡한 검사과정을 거치지 않고 피험자가 파킨슨 병을 앓고 있는지 확인하기 위해 거리 및 압력 센서를 이용해 보고자 하였다.</li>
-    <li>최종 목표는 피험자의 앉았다 일어나기(sit-to-stand) 영상으로부터 유용한 feature를 추출해 정상군과 PD군을 분류할 수 있는 모델을 개발하는 것이다.</li>
-  
+  <li>고가의 장비, 고급 인력, 복잡한 검사과정을 거치지 않고 피험자가 파킨슨 병을 앓고 있는지 확인하기 위해 거리 및 압력 센서를 이용해 보고자 하였다.</li>
+  <li>최종 목표는 피험자의 앉았다 일어나기(sit-to-stand) 영상으로부터 유용한 feature를 추출해 정상군과 PD군을 분류할 수 있는 모델을 개발하는 것이다.</li>
   </ul>
 
 
