@@ -7,6 +7,9 @@ Classification model to classify patients with Parkinson's disease from normal p
   <li>최종 목표는 피험자의 앉았다 일어나기(sit-to-stand) 영상으로부터 유용한 feature를 추출해 정상군과 PD군을 분류할 수 있는 모델을 개발하는 것이다.</li>
   </ul>
 
+<h3>Data</h3>
+![CG](./plots/CG.png)
+![PD](./plots/PD.png)
 
 <h3>Progress</h3>
   <ul>
@@ -14,4 +17,13 @@ Classification model to classify patients with Parkinson's disease from normal p
   <li>정상군의 데이터가 부족한 상황이었지만 총 5회 진행하는 데이터를 1회에 해당하는 segment를 3개씩 묶어서 데이터를 어느정도 보충 할 수 있었으며, SMOTE라는 오버샘플링 기법을
   이용해 데이터 부족 문제를 해결하였다.</li>
   </ul>
+  
+<h3>Model & Accuracy</h3>
+  <ol>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  </ol>
   
