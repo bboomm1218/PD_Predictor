@@ -9,9 +9,9 @@ Classification model to classify patients with Parkinson's disease from normal p
 
 <h3>Data</h3>
 
-![CG](https://user-images.githubusercontent.com/76942846/205490844-c88f9b4d-c473-42f4-803e-ce577dc701c2.png "CG")
-![PD](https://user-images.githubusercontent.com/76942846/205490849-f4da3d87-c5bb-44a1-9ff9-9e2cb49a9a30.png "PD")
 
+![CG](https://user-images.githubusercontent.com/76942846/205491144-1eb58ac6-3104-47a2-9b11-0cdea7be402c.png)
+![PD](https://user-images.githubusercontent.com/76942846/205491152-2d37be7b-4fef-4050-a462-316ed043b98c.png)
 
 <h3>Progress</h3>
   <ul>
