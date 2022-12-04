@@ -8,8 +8,8 @@ Classification model to classify patients with Parkinson's disease from normal p
   </ul>
 
 <h3>Data</h3>
-![CG](https://github.com/bboomm1218/PD_Predictor/blob/main/plots/CG.png)
-![PD](https://github.com/bboomm1218/PD_Predictor/blob/main/plots/PD.png)
+![CG](https://github.com/bboomm1218/PD_Predictor/blob/main/plots/CG.png?raw=true)
+![PD](https://github.com/bboomm1218/PD_Predictor/blob/main/plots/PD.png?raw=true)
 
 <h3>Progress</h3>
   <ul>
