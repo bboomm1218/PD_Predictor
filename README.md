@@ -24,7 +24,9 @@ Classification model to classify patients with Parkinson's disease from normal p
   <ol>
   <li>
   <b>Random Forest</b>
-  ![RF](https://user-images.githubusercontent.com/76942846/205665098-8d6189f6-3e2d-4412-9b11-3ee2ef2f8ab3.png)
+  
+    ![RF](https://user-images.githubusercontent.com/76942846/205665098-8d6189f6-3e2d-4412-9b11-3ee2ef2f8ab3.png)
+    
   </li>
   <li>
   <b>Extreme Gradient Boosting</b>
