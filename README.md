@@ -27,14 +27,14 @@ Classification model to classify patients with Parkinson's disease from normal p
   
   ![RF](https://user-images.githubusercontent.com/76942846/205668015-4a85f6e3-6c71-4e58-8f6b-f87d9713f2e6.png)
 
-    <b>89%</b>
+  <b>89%</b>
   </li>
   <li>
   <b>Extreme Gradient Boosting</b>
     
   ![XGB](https://user-images.githubusercontent.com/76942846/205668043-871e98e1-2de8-41b3-b375-12f43d1abedc.png)
   
-    <b>87%</b>
+  <b>87%</b>
     
   </li>
   
@@ -44,7 +44,7 @@ Classification model to classify patients with Parkinson's disease from normal p
     
   ![LSTM](https://user-images.githubusercontent.com/76942846/205668082-bbe5b915-6391-436c-b933-cd9a26797d9b.png)
   
-    <b>93%</b>
+  <b>93%</b>
    
   </li>
   </ol>
