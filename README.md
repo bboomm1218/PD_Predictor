@@ -25,13 +25,15 @@ Classification model to classify patients with Parkinson's disease from normal p
   <li>
   <b>Random Forest</b>
   
-  ![RF](https://user-images.githubusercontent.com/76942846/205665098-8d6189f6-3e2d-4412-9b11-3ee2ef2f8ab3.png)
+  ![RF](https://user-images.githubusercontent.com/76942846/205668015-4a85f6e3-6c71-4e58-8f6b-f87d9713f2e6.png)
+
     
   </li>
   <li>
   <b>Extreme Gradient Boosting</b>
     
-  ![XGB](https://user-images.githubusercontent.com/76942846/205665242-b30c0833-c236-4dd4-8ef4-40998a7d7b74.png)
+  ![XGB](https://user-images.githubusercontent.com/76942846/205668043-871e98e1-2de8-41b3-b375-12f43d1abedc.png)
+
     
   </li>
   
@@ -39,7 +41,8 @@ Classification model to classify patients with Parkinson's disease from normal p
 
   <b>LSTM</b>
     
-  ![LSTM](https://user-images.githubusercontent.com/76942846/205667036-e36b9089-c477-4106-88d2-3144bcc38c4b.png)
+  ![LSTM](https://user-images.githubusercontent.com/76942846/205668082-bbe5b915-6391-436c-b933-cd9a26797d9b.png)
+
    
   </li>
   </ol>
