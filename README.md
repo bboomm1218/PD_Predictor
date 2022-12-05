@@ -30,11 +30,16 @@ Classification model to classify patients with Parkinson's disease from normal p
   </li>
   <li>
   <b>Extreme Gradient Boosting</b>
-  </li>
+    
   ![XGB](https://user-images.githubusercontent.com/76942846/205665242-b30c0833-c236-4dd4-8ef4-40998a7d7b74.png)
+    
+  </li>
+  
   <li>
   <b>LSTM</b>
+    
   ![LSTM](https://user-images.githubusercontent.com/76942846/205665306-9b583351-600c-4051-864e-d144d6988e62.png)
+   
   </li>
   </ol>
   
