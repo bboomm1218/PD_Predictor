@@ -36,9 +36,10 @@ Classification model to classify patients with Parkinson's disease from normal p
   </li>
   
   <li>
+
   <b>LSTM</b>
     
-  ![LSTM](https://user-images.githubusercontent.com/76942846/205665306-9b583351-600c-4051-864e-d144d6988e62.png)
+  ![LSTM](https://user-images.githubusercontent.com/76942846/205667036-e36b9089-c477-4106-88d2-3144bcc38c4b.png)
    
   </li>
   </ol>
